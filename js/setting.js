@@ -19,8 +19,12 @@ OpenSpending.Styles.Cofog = {
 
   /* kumamoto cofog */
   '1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
+  '1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
   '2': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#0AB971' },
+   '2': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#0AB971' },
   '3': { icon: 'icons/economy-tourism.svg', color: '#C75746', bcolor: '#4E6D00' },
+  '3': { icon: 'icons/economy-tourism.svg', color: '#C75746', bcolor: '#4E6D00' },
+  '4': { icon: 'icons/our-streets.svg', color: '#C75746', bcolor: '#D33673' },
   '4': { icon: 'icons/our-streets.svg', color: '#C75746', bcolor: '#D33673' },
   '5': { icon: 'icons/environment.svg', color: '#C75746', bcolor: '#2A3A03' },
   '6': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#EC2406' },
