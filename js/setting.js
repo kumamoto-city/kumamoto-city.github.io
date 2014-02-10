@@ -19,8 +19,8 @@ OpenSpending.Styles.Cofog = {
 
   /* kumamoto cofog */
     
-   '1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-  '101': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
+   '1': { icon: 'icons/family.svg', color: '#C75746', bcolor: '#935B3B' },
+  '101': { icon: 'icons/family.svg', color: '#C75746', bcolor: '#935B3B' },
   '2': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#0AB971' },
   '201': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#0AB971' },
   '3': { icon: 'icons/economy-tourism.svg', color: '#C75746', bcolor: '#4E6D00' },
